@@ -1,0 +1,20 @@
+# This is section comment
+sec1: # Section 1
+  str: Hello World! # This is a string
+  int: 100 # This is an integer
+  float: 3.14 # This is a float
+  bool: true
+  path: C:\Users\admin\config.txt
+  utf8: 不是英文
+  int_like_str: "123"
+# This is section comment
+sec2: # Section 2
+  list:
+    - 1
+    - 2
+    - 3
+  dict:
+    key1: value1
+    key2: value2
+    key3: value3
+  

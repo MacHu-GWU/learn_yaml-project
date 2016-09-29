@@ -1,0 +1,17 @@
+sec1:
+  bool: true
+  float: 3.14
+  int: 100
+  int_like_str: '123'
+  path: C:\Users\admin\config.txt
+  str: Hello World!
+  utf8: "\u4E0D\u662F\u82F1\u6587"
+sec2:
+  dict:
+    key1: value1
+    key2: value2
+    key3: value3
+  list:
+  - 1
+  - 2
+  - 3
